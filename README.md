@@ -9,7 +9,7 @@
  Function:  This project is to create a mini IoT  green house for growing plants using either the hydroponics system or the aeroponics system.
             The ESP32 collect data form sensors and display them on the I2C driven OLED SSD1306
             Following is the list of sensors used.
-            H1750FVI -Lux sensor  - lghting level of grow light using sensor 
+            H1750FVI -Lux sensor  - lighting level of grow light using sensor 
    
             homemade two pone sensor - EC (electric connectivity to assess neutrient concentration and water level), using a  with algorthims provded by 
             MR. Michael Ratcliffe  Mike@MichaelRatcliffe.com. All credits of this EC sensor should be given to Mr. Michael Ratchliffe. Please reference his blog for details.
